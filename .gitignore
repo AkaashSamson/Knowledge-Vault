@@ -1,0 +1,10 @@
+# Obsidian runtime and UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.tmp
