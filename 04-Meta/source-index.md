@@ -16,8 +16,7 @@ This index maintains a compact, navigable catalog of all source materials ingest
 ## Catalog
 
 | Source Name | Original File Path | Source Record Path | Brief Description | Relevant Domains |
-| :--- | :--- | :--- | :--- | :--- |
-| *(Example / Empty)* | *(None yet)* | *(None yet)* | Master catalog awaiting first source ingestion | `meta` |
+| Attention Is All You Need | [/01-Sources/files/Attention_is_all_you_need.pdf](/01-Sources/files/Attention_is_all_you_need.pdf) | [/01-Sources/records/Attention_is_all_you_need.md](/01-Sources/records/Attention_is_all_you_need.md) | Foundational paper introducing the Transformer architecture and self-attention mechanism | `deep-learning`, `nlp`, `llm` |
 
 ---
 
