@@ -18,7 +18,7 @@ import yaml
 VAULT_ROOT = Path(__file__).resolve().parent.parent.parent
 
 RESERVED_BASENAMES = {"index.md", "log.md"}
-IGNORED_DIRS = {".git", ".obsidian", ".trash"}
+IGNORED_DIRS = {".git", ".obsidian", ".trash", ".agents", "00-Inbox", "media-lib", "Assets"}
 
 def extract_frontmatter(content: str):
     """Returns (frontmatter_dict, body_text) or (None, content)"""

@@ -142,3 +142,11 @@ All modifications made by an agent must be version-controlled:
 4. Run validation checks before committing.
 5. Create atomic, meaningful commits following Conventional Commits format (`feat:`, `docs:`, `fix:`, `chore:`).
 6. Record significant updates in `04-Meta/logs/YYYY-MM/log.md`.
+
+---
+
+## 9. Skill Maintenance & Synchronization
+
+1. **Authoritative Source**: The canonical definition of each agent skill lives in `04-Meta/skills/<skill-name>/SKILL.md`.
+2. **Antigravity Discovery**: Antigravity discovers slash-command skills from `.agents/skills/` (workspace) and `~/.gemini/config/skills/` (global).
+3. **Mandatory Sync**: Whenever a skill file in `04-Meta/skills/` is modified, run `04-Meta/scripts/sync-skills.sh` to keep all links and files synchronized with the Antigravity discovery paths.
