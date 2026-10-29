@@ -95,5 +95,16 @@ make_it_quack(Person())
 > 
 > #kim 
 
- 
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=63&selection=15,32,16,70&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.63]]
+> > sticking rigidly to our principles of encapsulation and careful layering will help us to avoid a ball of mud
+> 
+> focus on encapsulation and Careful Layering
+> 
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=65&selection=21,0,26,9&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.65]]
+> > Whenever we have a business concept that has data but no identity, we often choose to represent it using the Value Object pattern. 
+> 
+> this has been done in our project with TokenUsage Class.
+
+
 
