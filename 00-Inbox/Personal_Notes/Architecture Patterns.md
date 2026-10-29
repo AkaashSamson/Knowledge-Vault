@@ -64,5 +64,36 @@ make_it_quack(Person())
 > [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=38&selection=5,61,8,11&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.38]]
 > > n a layered architecture, we divide our code into discrete categories or roles, and we introduce rules about which categories of code can call each other.
 
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=40&selection=23,0,42,7&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.40]]
+> > Depends on doesn’t mean imports or calls, necessarily, but rather a more general idea that one module knows about or needs another module.
 
+
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=44&selection=3,0,3,47&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.44]]
+> > To do that, we present four key design patterns
+> 
+> - to do what?
+> 	- build persistance ignorant code (DB independent) and create stable APIs around the domain which can be refactored aggressively.
+> - 4 patterns:
+> 	- repository pattern - persistence independent
+> 	- service layer - define use case boundaries
+> 	- unit of work - atomic operations
+> 	- aggregate - enforce integrity of data
+
+> [!PDF|yellow] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=49&selection=4,0,16,9&color=yellow|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.49]]
+> > In the introduction, we used the term business logic layer to describe the central layer of a three-layered architecture. For the rest of the book, we’re going to use the term domain model instead. 
+> 
+> Business logic layer = domain model
+
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=49&selection=31,8,33,24&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.49]]
+> > . Most programmers spend their days trying to improve or automate business processes; the domain is the set of activities that those processes support.
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=50&selection=0,0,1,17&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.50]]
+> > The domain model is the mental map that business owners have of their businesses.
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=51&selection=13,0,14,12&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.51]]
+> > In a nutshell, DDD says that the most important thing about software is that it provides a useful model of a problem
+> 
+> #kim 
+
+ 
 
