@@ -45,6 +45,35 @@ aspect_ratio: 16 / 9
 	- the Game is all about cashflows. - [51:11](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=3072#t=51:11.63) 
 
 - [51:59](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=3119#t=51:59.07) - In India the Pareto Principle doesn't work due to various reasons. mainly because of:
-	- Lack of Knowledge 
+	- Lack of Knowledge / Intent 
 	- High Population
+	- Lack of much original products and selling point of India becomes Cheap Labour
 	- and such other factors
+
+- [1:03:48](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=3829#t=1:03:48.76) - the world today is not same as before
+	- NO Democracy
+	- more conflicts among Kings
+- [1:04:34](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=3875#t=1:04:34.53) - Nothing has changed as still the country with more military power holds the power. 
+	- prime ministers, presidents, kings, dictators are all titles. 
+
+- [1:05:07](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=3907#t=1:05:07.18) - for the last 15 centuries, India was No. 1 economy in the world. 
+
+- [1:05:49](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=3949#t=1:05:49.26) - But we lacked Innovation. 
+
+- [1:07:47](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=4068#t=1:07:47.54) - salary increment is limited and inflation makes things difficult. 
+	- so how to attract wealth, gain financial stability. 
+
+- [1:09:25](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=4166#t=1:09:25.93) - the more problems you solve, the more value comes to you, 
+	- Barter system still exists, the system works on exchange of resources. 
+
+- [1:09:36](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=4177#t=1:09:36.89) - salary is not an answer to question on how to attract large amount of money. 
+
+- [1:10:45](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=4246#t=1:10:45.70) - in coming times, people are gonna become Global citizen. 
+	- as an Individual what can you do to attract more capital. 
+
+-  [1:18:26](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=4706#t=1:18:26.39) - first thing to do to attract wealth:
+	- be in something which attracts less competition. 
+	- kind of a monopoly
+
+- 
+
