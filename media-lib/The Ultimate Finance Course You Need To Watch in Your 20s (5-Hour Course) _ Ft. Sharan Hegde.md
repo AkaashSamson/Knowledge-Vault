@@ -114,4 +114,29 @@ aspect_ratio: 16 / 9
 	- ability to liquidate Mutual funds to cash gives it more power. 
 
 
-- 
+- [1:47:50](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6470#t=1:47:50.33) - buying a table from a branded store will be more costly than making the table yourself by getting the wood, getting carpenter and so on. 
+	- buying a 3BHK flat is like buying table from the branded store, when it will be at it's highest value. 
+
+- [1:48:23](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6504#t=1:48:23.88) - insane amounts can be made by taking Risk. be it estate or stocks. 
+
+- [1:49:22](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6563#t=1:49:22.80) - money can be made in real estate by having foresight and taking risk. 
+	- many confuse it with buying a flat at the heart of city. but buying a place at outskirts and counting on development in 20 years is the real game
+
+- [1:49:36](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6577#t=1:49:36.84) - real estate can make more money than equity(stock market) - due to return on equity. 
+
+- reuturn on equity, - buy 1 crore land with downpayment of 20 % and sell it when it becomes 1.1 crore. you get 90 lakhs profit, by just paying 20 lakhs.
+
+- [1:55:04](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6905#t=1:55:04.77) the game that you can play with real estate can't be done with stock market. 
+
+- [1:56:21](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6981#t=1:56:21.06) - Your home is not an asset, as you are the one who is consuming it. 
+
+- [1:56:47](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=7008#t=1:56:47.71) -  Cash has 0%, savings account has 0% returns.  
+	- if you have a current account, you can open a flexi FD. 
+
+
+- [1:58:51](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=7132#t=1:58:51.58) - Fixed income:
+	- FD - mostly gives 7 %
+
+- [1:59:26](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=7167#t=1:59:26.70) gives list of percent returns for all different investment options. 
+
+ 
