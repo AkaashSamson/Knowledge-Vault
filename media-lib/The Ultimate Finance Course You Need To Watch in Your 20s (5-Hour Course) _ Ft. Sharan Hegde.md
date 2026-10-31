@@ -75,5 +75,43 @@ aspect_ratio: 16 / 9
 	- be in something which attracts less competition. 
 	- kind of a monopoly
 
-- 
+- [1:21:34](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=4894#t=1:21:34.24) - build something proprietary which cannot be easily copied. 
+	- because if it can be copied then you are at risk. 
+	- have a unique tech IP by having user stickiness. even if someone replicates something the users should be attached to yours. - [1:27:14](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=5235#t=1:27:14.73) 
 
+- [1:27:57](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=5277#t=1:27:57.14) - Personal Brand is the 3rd thing for the Capital. 
+
+[1:31:13](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=5473#t=1:31:13.35) - Activity. 
+- where would you invest your money in the next 10 years.
+
+	- Gold: 30%
+	- Estate: 20%
+	- Equity
+		- SIP: 20%
+		- stocks/Equity: 10%
+		- E-Gold: 15%???
+	- FD: 5%
+	- Group B
+
+- with current money:
+	- SIP: 100%
+	- Group A
+
+- avg Indian's investments:
+	- [1:37:39](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=5859#t=1:37:39.26) - I would rate it 6
+	- Almost everyone said it's Bad. 
+
+- [1:44:15](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6256#t=1:44:15.92) - is home an asset? 
+	- my answer - yes (8/10 confidence)
+
+- [1:44:54](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6294#t=1:44:54.06) - for something to be an asset:
+	- it should be something which grows in value
+
+- [1:44:58](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6299#t=1:44:58.50) - home is not an asset:
+	- it does grow in value but you won't sell it. 
+	- 5 crore in Mutual funds can bring more value as compared to House. 
+	- [1:44:58](https://www.youtube.com/watch?v=IgjhqPgwwGI&t=6298#t=1:44:58.41) - house can never financially utilize it for other goals. 
+	- ability to liquidate Mutual funds to cash gives it more power. 
+
+
+- 
