@@ -122,5 +122,32 @@
 > 
 > #kim 
 
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=70&selection=7,0,13,51&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.70]]
+> > Evans discusses the idea of Domain Service operations that don’t have a natural home in an entity or value object. A thing that allocates an order line, given a set of batches, sounds a lot like a function, and we can take advantage of the fact that Python is a multiparadigm language and just make it a function.
+> 
+> - you don't always need to keep the domain models restricted to objects and classes, sometimes a service as in a service could work better. 
+> - here we can use the multiparadigm nature of Python. 
+> - as in the given example allocate() is a separate function. 
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=72&selection=50,36,51,29&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.72]]
+> > exceptions can be used to express domain concepts too. 
+> 
+> #kim 
+
+> [!PDF|yellow] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=73&selection=0,0,0,21&color=yellow|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.73]]
+> > DOMAIN MODELING RECAP
+
+> [!PDF|yellow] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=73&selection=41,0,44,41&color=yellow|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.73]]
+> > This is the time to apply your best OO design principles Revisit the SOLID principles and all the other good heuristics like “has a versus is-a,” “prefer composition over inheritance,” and so on.
+> 
+> - explore these ideas.
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=76&selection=54,0,57,32&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.76]]
+> > Domain services are not the same thing as the services from the service layer, although they are often closely related. 
+
+### Chapter 2 
+
+
+
 
 
