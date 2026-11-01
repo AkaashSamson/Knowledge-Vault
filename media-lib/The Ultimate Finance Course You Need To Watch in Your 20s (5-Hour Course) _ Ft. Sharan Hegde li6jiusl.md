@@ -21,7 +21,7 @@ view_count: 67820
 cover: https://i.ytimg.com/vi_webp/IgjhqPgwwGI/maxresdefault.webp
 aspect_ratio: 16 / 9
 ---
-- smaller variant of [[The Ultimate Finance Course You Need To Watch in Your 20s (5-Hour Course) _ Ft. Sharan Hegde]]
+[1:01:02](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3663#t=1:01:02.99)[1:01:02](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3663#t=1:01:02.99)- smaller variant of [[The Ultimate Finance Course You Need To Watch in Your 20s (5-Hour Course) _ Ft. Sharan Hegde]]
 
 - [35:24](https://www.youtube.com/watch?v=dng2KDh5_LA&t=2125#t=35:24.50) - list of predicted rates of returns
 ![[mx-img-li6jiuslse3z2y0cixv56c4c-pt35m24_50s.jpg|The Ultimate Finance Course You Need To Watch in Your 20s (5-Hour Course) | Ft. Sharan Hegde - 35:24]]
@@ -61,5 +61,18 @@ aspect_ratio: 16 / 9
 
 - [41:49](https://www.youtube.com/watch?v=dng2KDh5_LA&t=2510#t=41:49.87) - build discipline of using credit cards. 
 
-- 
+- [1:01:17](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3678#t=1:01:17.72) we make 3 ppl rich:
+	- Company Boss
+	- Bank
+	- Govt
+
+- [1:02:08](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3728#t=1:02:08.10) - if we keep spending and can't control our wants, then financial freedom becomes tough. 
+
+- [1:02:31](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3751#t=1:02:31.50) - ESOPs
+	- [1:03:18](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3799#t=1:03:18.63) - very difficult to start a company and gaining success. 
+	- getting ESOPs is still less riskier than starting your own company. 
+
+- [1:05:07](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3908#t=1:05:07.70) - Need to bring value to the company and Getting ESOPs are difficult. 
+
+- [1:05:29](https://www.youtube.com/watch?v=dng2KDh5_LA&t=3930#t=1:05:29.76) - being an ex founder will bring value to you.
 
