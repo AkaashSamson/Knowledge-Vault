@@ -35,28 +35,10 @@
 > [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=37&selection=27,33,28,32&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.37]]
 > > n. In Python you can (and we sometimes do) use ABCs, but you can also happily rely on duck typing
 > 
-> - duck typing: if something walks and talks like a duck(basically behaves like a duck) then python considers it a duck.
+> - [[Duck Typing]]: if something walks and talks like a duck(basically behaves like a duck) then python considers it a duck.
 
+![[Duck Typing#^ec485a]]
 
-##### Duck Typing
-
-```
-class Duck:
-    def quack(self):
-        print("Quack!")
-
-class Person:
-    def quack(self):
-        print("I'm imitating a duck!")
-
-def make_it_quack(thing):
-    thing.quack()
-
-make_it_quack(Duck())    # Quack!
-make_it_quack(Person())  
-```
-
-- notice how make_it_quack takes in variable thing and it can be any object that can be passed, Duck or person, it will work as long as the quack function can be called.
 
 
 ---
@@ -64,9 +46,18 @@ make_it_quack(Person())
 > [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=38&selection=5,61,8,11&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.38]]
 > > n a layered architecture, we divide our code into discrete categories or roles, and we introduce rules about which categories of code can call each other.
 
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=39&selection=27,35,31,30&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.39]]
+> > DIP’s formal definition: 1. High-level modules should not depend on low-level modules. Both should depend on abstractions. 2. Abstractions should not depend on details. Instead, details should depend on abstractions.
+
+
 > [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=40&selection=23,0,42,7&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.40]]
 > > Depends on doesn’t mean imports or calls, necessarily, but rather a more general idea that one module knows about or needs another module.
 
+> [!PDF|yellow] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=41&selection=19,0,26,14&color=yellow|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.41]]
+> > The second part is even more mysterious. “Abstractions should not depend on details” seems clear enough, but “Details should depend on abstractions” is hard to imagine. How can we have an abstraction that doesn’t depend on the details it’s abstracting? By the time we get to Chapter 4, we’ll have a concrete example that should make this all a bit clearer.
+> 
+> - Waiting for chapter 4
+> 
 
 > [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=44&selection=3,0,3,47&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.44]]
 > > To do that, we present four key design patterns
@@ -105,6 +96,31 @@ make_it_quack(Person())
 > > Whenever we have a business concept that has data but no identity, we often choose to represent it using the Value Object pattern. 
 > 
 > this has been done in our project with TokenUsage Class.
+
+
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=65&selection=63,1,85,10&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.65]]
+> > rom dataclasses import dataclass from typing import NamedTuple from collections import namedtuple
+> 
+> - these are 3 different ways of creating and managing value objects in python.
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=67&selection=15,0,21,26&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.67]]
+> > That’s the definition of a value object: any object that is identified only by its data and doesn’t have a long-lived identity. What about a batch, though? That is identified by a reference.
+> 
+> - where as entities can't be identified only by it's data. as the data can change, it needs an immutable attribute which becomes the identifier for that entity. basically an "id" field is required by an entity. 
+
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=68&selection=33,0,38,22&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.68]]
+> > Entities, unlike values, have identity equality. We can change their values, and they are still recognizably the same thing. Batches, in our example, are entities.
+
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=68&selection=77,0,81,13&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.68]]
+> > Python’s __eq__ magic method 
+> 
+> - magic method as in special methods which include dunder methods. 
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=69&selection=17,0,32,20&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.69]]
+> > For entities, the simplest option is to say that the hash is None, meaning that the object is not hashable and cannot, for example, be used in a set. If for some reason you decide you really do want to use set or dict operations with entities, the hash should be based on the attribute(s), such as .reference, that defines the entity’s unique identity over time. You should also try to somehow make that attribute read-only.
+> 
+> #kim 
 
 
 
