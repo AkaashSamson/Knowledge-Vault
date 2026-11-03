@@ -147,7 +147,29 @@
 
 ### Chapter 2 
 
-- 
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=79&selection=56,0,57,52&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.79]]
+> > We expect to be working in an agile manner, so our priority is to get to a minimum viable product as quickly as possible. 
+> 
+> - the first step of Agile dev is to get MVP as quickly as possible
+
+> [!PDF|yellow] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=79&selection=58,30,60,31&color=yellow|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.79]]
+> > In a real project, you might dive straight in with some end-to-end tests and start plugging in a web framework, test-driving things outside-in.
+
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=82&selection=13,1,18,1&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.82]]
+> > nstead, as discussed in the introduction, we’ll think of our model as being on the “inside,” and dependencies flowing inward to it; this is what people sometimes call onion architecture 
+> 
+> - onion architecture's whole point is to have the domain in the core?
+
+> [!PDF|yellow] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=83&selection=6,1,8,38&color=yellow|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.83]]
+> > s this ports and adapters? Or is it hexagonal architecture? Is that the same as onion architecture? What about the clean architecture? What’s a port, and what’s an adapter? Why do you people have so many words for the same thing?
+> 
+> so Real..
+
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=83&selection=10,0,12,64&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.83]]
+> > Although some people like to nitpick over the differences, all these are pretty much names for the same thing, and they all boil down to the dependency inversion principle: high-level modules (the domain) should not depend on low-level ones (the infrastructure)
+> 
+> - so they are all basically focused on DIP
+
 
 
 
