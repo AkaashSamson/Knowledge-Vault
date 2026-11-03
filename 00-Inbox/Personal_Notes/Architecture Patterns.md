@@ -171,5 +171,16 @@
 > - so they are all basically focused on DIP
 
 
+> [!PDF|important] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=84&selection=25,0,33,6&color=important|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.84]]
+> > These days, it’s unlikely that your team members are hand-rolling their own SQL queries. Instead, you’re almost certainly using some kind of framework to generate SQL for you based on your model objects. These frameworks are called object-relational mappers (ORMs)
+> 
+> - ORM: mapping model objects with actual SQL DB
 
+> [!PDF|note] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=85&selection=0,0,6,64&color=note|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.85]]
+> > The most important thing an ORM gives us is persistence ignorance: the idea that our fancy domain model doesn’t need to know anything about how data is loaded or persisted. This helps keep our domain clean of direct dependencies on particular database technologies
+
+> [!PDF|yellow] [[Architecture Patterns with Python - Bob Gregory, Harry Percival.pdf#page=85&selection=61,22,63,58&color=yellow|Architecture Patterns with Python - Bob Gregory, Harry Percival, p.85]]
+> > Can we really say this model is ignorant of the database? How can it be separate from storage concerns when our model properties are directly coupled to database columns?
+> 
+> 
 
