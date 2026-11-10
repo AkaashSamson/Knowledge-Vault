@@ -1,3 +1,9 @@
+---
+tags:
+  - computer-science
+  - python
+---
+
 ##### Duck Typing
 
 ^e7ca82
